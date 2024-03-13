@@ -1,3 +1,22 @@
-# CS50
 
-This is CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming, for concentrators and non-concentrators alike, with or without prior programming experience. (Two thirds of CS50 students have never taken CS before.) This course teaches you how to solve problems, both with and without code, with an emphasis on correctness, design, and style. Topics include computational thinking, abstraction, algorithms, data structures, and computer science more generally. Problem sets inspired by the arts, humanities, social sciences, and sciences. More than teach you how to program in one language, this course teaches you how to program fundamentally and how to teach yourself new languages ultimately. The course starts with a traditional but omnipresent language called C that underlies today’s newer languages, via which you’ll learn not only about functions, variables, conditionals, loops, and more, but also about how computers themselves work underneath the hood, memory and all. The course then transitions to Python, a higher-level language that you’ll understand all the more because of C. Toward term’s end, the course introduces SQL, via which you can store data in databases, along with HTML, CSS, and JavaScript, via which you can create web and mobile apps alike. Course culminates in a final project.
+# HarvardX: CS50's Introduction to Computer Science
+
+This repository contains my solutions and projects for CS50x, an introductory course to computer science offered by Harvard University. From the basics of programming in C to exploring fundamental concepts of computer science, this course provides a comprehensive understanding of the field. Each problem set and project within this repository reflects my journey through the course, showcasing my progress and understanding of various topics such as algorithms, data structures, web development, and more.
+![Logo](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png)
+
+
+## 🛠 Skills
+
+- C Language
+- Python
+- SQL
+- Flask
+- HTML
+- CSS
+- JavaScript
+
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khizar457.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizarqamar/)
+
