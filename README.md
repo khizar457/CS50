@@ -23,3 +23,7 @@ Feel free to explore and learn from the solutions provided. However, it's highly
 - If you find any issues or have suggestions for improvements in the solutions, feel free to open an issue or submit a pull request.
 
 Happy coding!
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://khizar457.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizarqamar/)
