@@ -13,7 +13,9 @@ This repository contains my submissions for the CS50 courses offered by Harvard 
 
 Feel free to explore and learn from the solutions provided. However, it's highly encouraged to try solving the problems yourself before referring to these solutions.
 
-![CS50 Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HvTHdivB1Lk9FoXLwBTuONeuNYhtUehquKTGrtsZs-EPndYDggqjPg9JBtzI61koSjA&usqp=CAU)
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0HvTHdivB1Lk9FoXLwBTuONeuNYhtUehquKTGrtsZs-EPndYDggqjPg9JBtzI61koSjA&usqp=CAU" alt="CS50 Logo">
+</div>
 
 ## Notes
 
